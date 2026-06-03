@@ -1,5 +1,5 @@
-from poo.porgrama_boblioteca.libros import Libro
-from poo.porgrama_boblioteca.biblioteca import Biblioteca
+from libros import Libro
+from biblioteca import Biblioteca
 
 
 print('*** sistema de bibliotecas ***')
